@@ -26,8 +26,8 @@ At Future GCS, we believe that the future of technology lies in the hands of tod
 ## Get Involved
 We invite businesses, students, and tech enthusiasts to explore our repository, engage with our resources, and join us in building a future powered by AI innovation. Have a question or suggestion? Feel free to reach out or contribute to our repository!
 
-📩 **Contact Us**: [Insert contact email or link]  
-🌐 **Learn More**: [Insert website link, if applicable]  
+📩 **Contact Us**: gul@futuregcs.com  
+🌐 **Learn More**: https://futuregcs.com/  
 
 Together, let’s shape the future with Future GCS!
 
