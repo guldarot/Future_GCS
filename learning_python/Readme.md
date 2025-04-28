@@ -1,3 +1,4 @@
+# Python for AI
 # Your Ultimate Guide to Python for Artificial Intelligence
 
 Welcome to your comprehensive resource for mastering Python in the context of Artificial Intelligence. This course is crafted to develop your expertise in **Modern Python**, with a strong emphasis on **static typing**—a foundation for building reliable and scalable AI solutions. You’ll also learn to leverage **AI-powered tools** to streamline your Python coding, accelerating both learning and development. From core fundamentals to advanced techniques and hands-on **web application development**, this program equips you to excel in AI-driven projects and beyond.
